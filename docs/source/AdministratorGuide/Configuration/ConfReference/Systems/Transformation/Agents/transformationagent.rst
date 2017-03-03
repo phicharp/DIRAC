@@ -4,6 +4,7 @@ Systems / Transformation / <INSTANCE> / Agents / TransformationAgent - Sub-subse
 The TransformationAgent processes transformations found in the transformation database.
 
 Specific options defined in this sub-sections are:
+
 * TransformationTypes : list of transformation types handled by this specific agent
 * transformationStatus : list of statues considered by the agent
 * MaxFilesToProcess : maximum number of files passed to the plugin. This can be overwritten for individual plugins (see below)
